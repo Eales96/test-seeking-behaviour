@@ -1,5 +1,5 @@
-# This is the code that produced the figures in the paper "Temporal trends in test-seeking behaviour during the COVID-19 pandemic"
-# The code relies on input data that is not publicly available (lines 24-31) and so will crash if one runs the code.
+# This is the code that produced the figures and tables for the paper "Temporal trends in test-seeking behaviour during the COVID-19 pandemic"
+# The code relies on input data that is not publicly available (lines 24-31) and so will crash if you try to run it.
 
 library(ggplot2)
 library(mgcv)
